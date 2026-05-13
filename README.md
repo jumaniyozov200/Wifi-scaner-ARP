@@ -12,4 +12,4 @@
 
 Ushbu dastur faqat o'quv va etika doirasida test o'tkazish maqsadida yaratilgan. Ruxsatsiz tarmoqlarda ishlatish qonunga xilofdir.
 
-Muallif: Yoldashov Suhrob
+Muallif: Suhrob
