@@ -1,0 +1,472 @@
+[
+  {
+    "timestamp": "18:50:04",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:04",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:50:15",
+    "domain": "firebaselogging.googleapis.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:15",
+    "domain": "github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:15",
+    "domain": "github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "uid.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "uid.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "uid.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "uid.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:16",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "storage.mds.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "storage.mds.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "storage.mds.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "storage.mds.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "favicon.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "favicon.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "favicon.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "favicon.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github.githubassets.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github.githubassets.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github.githubassets.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github.githubassets.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "avatars.githubusercontent.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "avatars.githubusercontent.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "avatars.githubusercontent.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "avatars.githubusercontent.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "user-images.githubusercontent.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "user-images.githubusercontent.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "user-images.githubusercontent.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "user-images.githubusercontent.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github-cloud.s3.amazonaws.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github-cloud.s3.amazonaws.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github-cloud.s3.amazonaws.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:17",
+    "domain": "github-cloud.s3.amazonaws.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "collector.github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "collector.github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "collector.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "collector.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:19",
+    "domain": "api.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "startup.mobile.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "startup.mobile.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "startup.mobile.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "startup.mobile.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "api.passport.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "api.passport.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:20",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:28",
+    "domain": "github.community",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:28",
+    "domain": "github.community",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:28",
+    "domain": "github.community",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:28",
+    "domain": "github.community",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:30",
+    "domain": "browser.translate.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:30",
+    "domain": "browser.translate.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:30",
+    "domain": "browser.translate.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:30",
+    "domain": "browser.translate.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:31",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:31",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:31",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:31",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:32",
+    "domain": "connectivity-check.ubuntu.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:34",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:34",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:50:34",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:34",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:37",
+    "domain": "pagead2.googlesyndication.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:37",
+    "domain": "pagead2.googlesyndication.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:37",
+    "domain": "graph.instagram.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:50:37",
+    "domain": "graph.instagram.com",
+    "type": "A"
+  }
+]

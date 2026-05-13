@@ -1,0 +1,647 @@
+[
+  {
+    "timestamp": "18:41:35",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:35",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:35",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:35",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:35",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:35",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:36",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:38",
+    "domain": "ipv4-c043-hel001-ix.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:38",
+    "domain": "ipv4-c043-hel001-ix.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:38",
+    "domain": "ipv4-c043-hel001-ix.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:38",
+    "domain": "ipv4-c043-hel001-ix.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:41",
+    "domain": "app-measurement.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:41",
+    "domain": "app-measurement.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yastatic.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yastatic.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.sso.dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.sso.dzen.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.sso.dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "suggest.sso.dzen.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "alice.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "alice.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "alice.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "alice.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "stats.rustore.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "stats.rustore.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "uid.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "uid.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "uid.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "uid.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "startup.mobile.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "startup.mobile.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "startup.mobile.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "startup.mobile.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "mobileproxy.passport.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "mobileproxy.passport.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.passport.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.passport.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:48",
+    "domain": "api.passport.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:49",
+    "domain": "bp.beeline.uz",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:49",
+    "domain": "bp.beeline.uz",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:49",
+    "domain": "bp.beeline.uz",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:41:49",
+    "domain": "bp.beeline.uz",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "uzmovi.tv",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "uzmovi.tv",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "uzmovi.tv",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "uzmovi.tv",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "a.nel.cloudflare.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "a.nel.cloudflare.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "a.nel.cloudflare.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "a.nel.cloudflare.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "sync.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "sync.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "report.appmetrica.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:52",
+    "domain": "report.appmetrica.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:54",
+    "domain": "cloud-api.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:41:54",
+    "domain": "cloud-api.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "fast.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "fast.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "fast.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "fast.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "ichnaea-web.netflix.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "ichnaea-web.netflix.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "ichnaea-web.netflix.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "ichnaea-web.netflix.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.fast.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.fast.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.fast.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.fast.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "browser.translate.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "browser.translate.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:02",
+    "domain": "browser.translate.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c002-tas001-uzbektel-isp.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ya.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ya.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ya.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ya.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c066-hel001-ix.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c066-hel001-ix.1.oca.nflxvideo.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c066-hel001-ix.1.oca.nflxvideo.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:42:03",
+    "domain": "ipv4-c066-hel001-ix.1.oca.nflxvideo.net",
+    "type": "A"
+  }
+]

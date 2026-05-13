@@ -1,0 +1,30 @@
+# ARP Spoofing va DNS Sniffer - Kutubxonalar
+# Requirements for ARP Spoofing and DNS Sniffer
+
+# Asosiy kutubxona / Main library
+scapy>=2.4.5
+
+# Python versiyasi / Python version
+# Python 3.7, 3.8, 3.9, 3.10+ bilan ishlaydi / Works with Python 3.7+
+
+# O'rnatish usuli / Installation method:
+# pip install -r requirements.txt
+
+# O'rnatish (Manual) / Manual installation:
+# pip install scapy>=2.4.5
+
+# Opsional kutubxonalar / Optional libraries:
+# Agar ma'lumot saqlasangiz kerak bo'lsa:
+# sqlite3 (built-in)
+# json (built-in)
+# csv (built-in)
+
+# Windows uchun / For Windows:
+# Npcap driver o'rnatish kerak / Npcap driver required
+# https://nmap.org/npcap/
+
+# Linux uchun / For Linux:
+# sudo apt install python3-dev libpcap-dev
+
+# macOS uchun / For macOS:
+# brew install libpcap python3-dev

@@ -521,9 +521,6 @@ class PacketAnalyzer:
                     return host, url
         except Exception:
             pass
-        
-        except Exception as e:
-            pass
     
     def extract_sni(self, payload):
         try:
@@ -906,12 +903,13 @@ class AdvancedSniffer:
             seconds = int(elapsed % 60)
             
             stats = self.analyzer.get_statistics()
+            arp_packets = self.spoofer.packets_sent if self.spoofer is not None else 0
             
             print(f"\n{Fore.MAGENTA}{'='*70}")
             print(f"📊 REAL-TIME STATISTIKA")
             print(f"{'='*70}{Fore.RESET}")
             print(f"⏱️  Vaqt: {hours:02d}:{minutes:02d}:{seconds:02d}")
-            print(f"📤 ARP paketlar: {self.spoofer.packets_sent}")
+            print(f"📤 ARP paketlar: {arp_packets}")
             print(f"🌐 DNS so'rovlar: {len(stats['dns_queries'])}")
             print(f"🌍 HTTP so'rovlar: {len(stats['http_requests'])}")
             print(f"🔒 HTTPS ulanishlar: {len(stats['https_connections'])}")
@@ -947,7 +945,7 @@ class AdvancedSniffer:
         self.running = False
         
         # ARP restore
-        if self.spoofer:
+        if self.spoofer and self.target_ip and self.target_mac and self.gateway_ip and self.gateway_mac:
             print(f"{Fore.CYAN}🔄 ARP jadval qaytarilmoqda...{Fore.RESET}")
             self.spoofer.restore(
                 self.target_ip, self.target_mac,
@@ -977,8 +975,9 @@ class AdvancedSniffer:
         minutes = int((elapsed % 3600) // 60)
         seconds = int(elapsed % 60)
         
+        arp_packets = self.spoofer.packets_sent if self.spoofer is not None else 0
         print(f"⏱️  Umumiy vaqt: {hours:02d}:{minutes:02d}:{seconds:02d}")
-        print(f"📤 Yuborilgan ARP paketlar: {self.spoofer.packets_sent}")
+        print(f"📤 Yuborilgan ARP paketlar: {arp_packets}")
         print(f"🌐 Jami DNS so'rovlar: {len(stats['dns_queries'])}")
         print(f"🌍 Jami HTTP so'rovlar: {len(stats['http_requests'])}")
         print(f"🔒 Jami HTTPS ulanishlar: {len(stats['https_connections'])}")

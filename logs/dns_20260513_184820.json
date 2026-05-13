@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "18:48:52",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "18:48:52",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:49:01",
+    "domain": "connectivity-check.ubuntu.com",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:49:10",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "AAAA"
+  },
+  {
+    "timestamp": "18:49:37",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "AAAA"
+  }
+]

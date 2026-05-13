@@ -1,0 +1,352 @@
+[
+  {
+    "timestamp": "19:34:31",
+    "domain": "rosenberg.appmetrica.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:31",
+    "domain": "rosenberg.appmetrica.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:36",
+    "domain": "api.individual.githubcopilot.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:36",
+    "domain": "api.individual.githubcopilot.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:36",
+    "domain": "glb-db52c2cf8be544.github.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "api.browser.yandex.ru",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "api.browser.yandex.ru",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "sba.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:37",
+    "domain": "sba.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:39",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:39",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:39",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:39",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:39",
+    "domain": "104.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "i.instagram.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "i.instagram.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-3.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-3.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-3.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-2.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-2.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-3.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-2.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:45",
+    "domain": "instagram.fbhk1-2.fna.fbcdn.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:34:51",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:51",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:51",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:34:51",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:01",
+    "domain": "rus-trancare.transsion-os.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:01",
+    "domain": "rus-trancare.transsion-os.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:03",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:03",
+    "domain": "104.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:03",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:03",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:03",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:13",
+    "domain": "egress.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:13",
+    "domain": "egress.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:15",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:15",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:15",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:15",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:22",
+    "domain": "mobile.events.data.microsoft.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:22",
+    "domain": "mobile.events.data.microsoft.com",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:22",
+    "domain": "onedscolprdwus07.westus.cloudapp.azure.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "cdnrepfu6rku5qba3zpu.svc.cdn.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "cdnrepfu6rku5qba3zpu.svc.cdn.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "cdnrepfu6rku5qba3zpu.svc.cdn.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "cdnrepfu6rku5qba3zpu.svc.cdn.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "ext-cloudcdn-uztas01uztl-01.cdn.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "ext-cloudcdn-uztas01uztl-01.cdn.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "ext-cloudcdn-uztas01uztl-01.cdn.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:23",
+    "domain": "ext-cloudcdn-uztas01uztl-01.cdn.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:26",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:26",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:26",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:26",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:28",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:28",
+    "domain": "api.browser.yandex.net",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:28",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:28",
+    "domain": "api.browser.yandex.net",
+    "type": "A"
+  },
+  {
+    "timestamp": "19:35:38",
+    "domain": "1.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:38",
+    "domain": "105.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:38",
+    "domain": "107.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:38",
+    "domain": "108.1.168.192.in-addr.arpa",
+    "type": "PTR"
+  },
+  {
+    "timestamp": "19:35:40",
+    "domain": "api.individual.githubcopilot.com",
+    "type": "TYPE65"
+  },
+  {
+    "timestamp": "19:35:40",
+    "domain": "api.individual.githubcopilot.com",
+    "type": "A"
+  }
+]
